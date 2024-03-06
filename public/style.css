@@ -1,0 +1,12 @@
+body {
+    background-color: #FFFBD3;
+}
+canvas {
+    top: 50%;
+    left: 50%;
+    margin-left: -400px;
+    margin-top: -350px;
+    position: fixed;
+    border: 10px dotted #FFBFCB;
+    border-radius: 50px;
+}
